@@ -4,6 +4,8 @@
 
 This repository contains a web-based presentation about "The AI Revolution in Business," created entirely with HTML, CSS, and vanilla JavaScript. The presentation explores current market trends in AI adoption, industry-specific implementations, and the competitive advantages of AI readiness.
 
+[Presentation Preview](https://carstoneous.github.io/AI-Revolution-Presentation/)
+
 ## Why HTML for Presentations?
 
 ### Advantages Over Traditional Tools
